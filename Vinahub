@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LongPD214/vinahub/main/vinahub.lua"))()
